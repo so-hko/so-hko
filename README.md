@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=200&section=header&text=%20Hello,%20there!%20%&fontAlign=76&fontAlignY=45&desc=%20This%20is%20Sohko✨&descAlign=80&descAlignY=60&descSize=25&fontSize=38&fontColor=FFF0F5" />
 
 <div align=center>
-  <h3>:blush:Introduce:blush:</h3>
+  <h3>:blush: Introduce</h3>
   안녕하세요, 경기대학교 컴퓨터과학전공 석사과정 박소향입니다.<br>
   스마트팩토리, 인공지능 토픽에 관련 된 연구를 하고 있고<br> 피아노 치는 것이 취미인, 음악을 사랑하는 학생연구원입니다!<br>
   저에 대해 더 많이 알고 싶다면 제 노션 포트폴리오를 살펴봐주세요<br>
   :sunflower: <a href="https://www.notion.so/sohko-study/53047e3c098a4b5a927214ca2d442c08?pvs=4" target="_blank">포트폴리오 보러가기</a>  :sunflower:
   <br>
   <br>
-  <h3>:four_leaf_clover:Interests:four_leaf_clover:</h3>
+  <h3>:four_leaf_clover: Interests</h3>
   <img src="https://img.shields.io/badge/semi%20supervised%20learning-orange?style=flat&fontColor=white"/></a>
   <img src="https://img.shields.io/badge/unsupervised%20learning-green?style=flat&fontColor=white"/></a>
   <br>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/transformer-004088?style=flat&fontColor=white"/></a>
   <br>
   <br>
-  <h3>:bulb:Skills:bulb:</h3>
+  <h3>:bulb: Skills</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white"/></a>
