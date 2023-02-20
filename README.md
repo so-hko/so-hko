@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=So-hko's&nbsp;Github!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=200&section=header&text=%20Hello,%20there!%20%&fontAlign=76&fontAlignY=45&desc=%20I%20am%20Sohko✨&descAlign=80&descAlignY=60&descSize=25&fontSize=38&fontColor=FFF0F5" />
