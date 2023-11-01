@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 
 <br>
-<br>
 
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sohko)](https://solved.ac/sohko)
+</div>
