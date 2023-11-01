@@ -59,9 +59,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 </div>
-
-
 <br>
-
-
+![sohko's github stats](https://github-readme-stats.vercel.app/api?username=sohko&show_icons=true&theme=radical) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sohko)](https://solved.ac/sohko)
