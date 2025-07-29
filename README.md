@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 <div align=center>
   <h3>:blush: Introduce</h3>
-  안녕하세요, 경기대학교 컴퓨터과학전공 석사과정 박소향입니다.<br>
-  스마트팩토리, 인공지능 토픽에 관련 된 연구를 하고 있고<br> 피아노 치는 것이 취미인, 음악을 사랑하는 학생연구원입니다!<br>
-  저에 대해 더 많이 알고 싶다면 제 노션 포트폴리오를 살펴봐주세요<br>
   :sunflower: <a href="https://www.notion.so/sohko-life/bc6bff1c5e234f9d9af49b92b5b46579?pvs=4" target="_blank">포트폴리오 보러가기</a>  :sunflower:
   <br>
   <br>
